@@ -22,6 +22,7 @@ namespace CSD_3354_lab_5
 
             void Method1()
             {
+                // aa
                 System.Console.WriteLine("MyDelegate");
             }
 
